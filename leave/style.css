@@ -1,0 +1,122 @@
+/* Login/Register form styles */
+form {
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+  }
+  
+  label {
+    display: inline-block;
+    margin-bottom: 10px;
+  }
+  
+  input[type="text"],
+  input[type="password"] {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-sizing: border-box;
+    margin-bottom: 20px;
+  }
+  
+  input[type="submit"] {
+    background-color: #be50fd;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  input[type="submit"]:hover {
+    transition: opacity 2.55s ease-in-out ;
+    background-color: #ce78ff;
+  }
+  
+  a {
+    color: #eaaaff;
+  }
+  
+  /* Leave application form styles */
+  select,
+  input[type="date"],
+  textarea {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #f8f8f8;
+    border-radius: 5px;
+    box-sizing: border-box;
+    margin-bottom: 20px;
+  }
+  
+  input[type="file"] {
+    margin-bottom: 20px;
+  }
+  
+  label[for="reason"] {
+    margin-top: 10px;
+  }
+  
+  label[for="documents"] {
+    margin-top: 10px;
+    display: block;
+  }
+  
+  textarea {
+    height: 150px;
+  }
+.logost{
+  height: 80px;
+  position: relative;
+  left: 10px;
+  top: 10px;
+}
+.nav{
+  margin: auto;
+  display: inline;
+  width:fit-content
+}
+.log{
+  position:relative;
+  top:100px;
+  
+  width: auto;
+  
+}
+.mm{
+  height: 150px;
+  position: absolute;
+  left: 460px;
+  top: 75px;
+}
+.formbg{
+  background-color: #ccc;
+}
+.nav1{
+  font-family:Rampart One;
+  color: #bf1af6;
+  
+}
+.reg{
+  font-family:Rampart One;
+  color: #bf1af6;
+  
+}
+.regist{
+  font-family: Oswald;
+}
+.for123{
+  background-color: #ccc;
+}
+body{
+  background-color: #f1c2ff;
+}
+.deh2{
+  background-color: #f1c2ff;
+}

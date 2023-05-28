@@ -1,0 +1,159 @@
+body{
+    background-color: #bbfeff;
+    text-align: center;
+}
+h1{
+     margin-top: 30px;
+     
+     font-size: 4rem;
+}
+body{
+    margin: 0px;;
+    text-align: center;
+    font-family: Rampart One;
+    color: #017577;
+
+}
+.middle-container{
+    background-color:#fbf3fb;
+ 
+}
+.name{
+    background-color: #bbfeff;
+    padding: 100px;
+    position: relative;
+    
+   
+
+}
+.bottom-container{
+    background-color: #bbfeff;
+}
+
+.topcloud{
+    position:absolute;
+    right:300px;
+    top: 80px;
+    height: 300px;
+}
+
+.bottomcloud{
+    position: absolute;
+    left:300px;
+    bottom:380px;
+    height: 300px;
+}
+.barv{
+    padding-left: 10px;
+    padding-right: 10px;
+    display: inline-block;
+    font-size: 18;
+    color: #065e60;
+    font-family: Berkshire Swash;
+    
+}
+.bar{
+    width: 100%;
+    text-align: end;
+    position: fixed;
+    top: 0px;
+    right: 0;;
+    background-color: #bbfeff;
+}
+.barv:hover{
+    color: gold;
+}
+
+p{
+    font-family: Arial, Helvetica, sans-serif;
+}
+a{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: #0a92ad;
+    margin: 0 10px 0 10px;
+    text-decoration: none;
+}
+.website{
+    font-family:cursive;
+    color:black;
+}
+#mountain{
+    height: 300px;
+}
+.gig1{
+    font-size: 2rem;
+}
+h2{
+    font-weight:normal;
+}
+.server{
+    height: 25%;;
+}
+.skill-row{
+    width: 50%;
+    margin:100px auto 100px auto;
+    line-height: 2;
+    text-align: left;
+    
+}
+.server{
+    height: 20%;
+    float: left;
+    margin-right: 75px;
+    position: relative;
+    right:40px
+    
+}
+.ser{
+    height: 20%;
+    float: right;
+    position: relative;
+    left: 40px;
+
+}
+.skill-row1{
+    width: 50%;
+    margin:100px auto 100px auto;
+    line-height: 2;
+    text-align: left;
+    padding-left: 100px;
+
+}
+.btn{
+    display: block;
+}
+.GFG{
+    background-color: #59e3ff;
+    padding: 10px;
+    border: none;
+    border-radius: 5cm;
+    font-family: Rampart One;
+    
+}
+.GFG:hover{
+    background-color: #0a92ad;
+    color: azure;
+}
+.footer-link:hover{
+    color: gold;
+}
+.touch{
+    display: inline;
+}
+.finger{
+    display: inline-block;
+
+}
+.touch{
+    visibility: hidden;
+    height: 70px;
+}
+.finger:hover+.touch {
+    visibility:visible;
+  }
+  .mick{
+    height: 160px;
+    position: absolute;
+    top: 10;
+  }
+  
